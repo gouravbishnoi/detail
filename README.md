@@ -1,0 +1,2 @@
+# detail
+my detail
